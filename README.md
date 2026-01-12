@@ -11,4 +11,4 @@ University projects, assignments, and programming labs for the Bachelor's degree
 
 - Clone the repository: 
   ```bash
-  git clone https://github.com/YOUR-USERNAME/Bachelor-STaD-PU.git
+  git clone [https://github.com/GeorgePachedjiev/Bachelor-STaD-PU]
