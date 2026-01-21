@@ -9,6 +9,7 @@ University projects, assignments, and programming labs for the Bachelor's degree
 - DataBase
 - C# OOP
 - C# ASP .Net
+- JavaScript
 
 ## How to use
 
