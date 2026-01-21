@@ -6,6 +6,7 @@ University projects, assignments, and programming labs for the Bachelor's degree
 
 - `Introduction-to-CSharp/` – C# Fundamentals
 - `Web-Development/` – Web design (HTML, CSS, JavaScript)
+- DataBase
 
 ## How to use
 
